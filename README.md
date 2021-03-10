@@ -1,0 +1,2 @@
+# Linux_huanjinbianliang2
+这一部分关于环境变量的全部内容code
